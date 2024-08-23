@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Garlid
-- 👀 I’m interested in data science, specifically using data science in neurology to make advances in the field of neurology. 
-- 🌱 I’m currently working on completing a PowerBI certificate
-- 💞️ I’m looking to collaborate on ETL. My current place of employment needs help in that area, and I'd love to find a solution.
-- 📫 How to reach me... message me here in GitHub
-- ⚡ Fun fact: Currently working on back hand springs and front hand springs in my tumbling class. 
+This Repo contains my final submission my capstone project for[ MIT's Applied data Science Pgoram: Leveraging AI for Effective Decision-Making ](https://professional-education-gl.mit.edu/mit-online-data-science-program). This project demonstrates my ability to:
+1. Prepare Data
+2. Transform Data
+3. Engineer Data(feature engineering)
+4. Vizualize Data
+5. Perform Statistical Analysis
+6. Select Appropriate Machine Learning Models For the Data
+7. Train The Selected ML Model(s)
+8. Test The ML Models
+9. Analyze ML Model Errors
+10. Communicate/Present Findings To Stakeholders
 
 <!---
 Garlid/Garlid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
