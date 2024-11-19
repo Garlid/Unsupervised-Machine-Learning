@@ -1,4 +1,4 @@
-This Repo contains my final submission my capstone project for[ MIT's Applied data Science Pgoram: Leveraging AI for Effective Decision-Making ](https://professional-education-gl.mit.edu/mit-online-data-science-program). This project demonstrates my ability to:
+This Repo contains my final submission my capstone project for[ MIT's Applied Data Science Program: Leveraging AI for Effective Decision-Making ](https://professional-education-gl.mit.edu/mit-online-data-science-program). This project demonstrates my ability to:
 1. Prepare Data
 2. Transform Data
 3. Engineer Data(feature engineering)
