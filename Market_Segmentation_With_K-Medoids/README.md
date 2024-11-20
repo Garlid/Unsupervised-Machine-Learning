@@ -77,3 +77,9 @@ Lastly, I identified the costs associated with advertising to these segments. Th
 
 ![Advertising_Costs](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/Advertising_Costs.png)
 
+---
+
+### MIT Professional Education Certificate
+
+![Certificate](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/MIT_Certificate.png)
+
