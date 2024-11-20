@@ -1,17 +1,55 @@
-This repository contains projects I have completed that utilized various unsupervised ML clustering algorithms. The projects within showcase my ability to utilize the following clustomer algorithms and their respective silhouette scores:
+## Unsupervised Machine Learning Projects
 
-1. K-Means
-2. K-Medoids
-3. Hierarchical Clustering
-4. Density Based Spatial Clustering (DBSCAN)
-5. Guassian Mixture Model (GMM)
+This repository showcases projects I have completed that utilize various **unsupervised machine learning clustering algorithms**. These projects highlight my ability to apply clustering techniques and evaluate their effectiveness using metrics like silhouette scores.
 
-These projects also highlight my ability to perform data pre-preprocessing and EDA on large data sets. 
+---
 
-The first project you will see is the capstone project from MIT's Data Science and Machine Learning program. After analyzing various clustering algorithms, I selected K-Medoids as the clustering algorithm that was both least sensitive to outliers and produced the most compact segments in my data, all while having the highest silhouette score. Details of the project, including raw data, code, and the final presentation can be found within the [Market_Segmentation_With_K-Medoids](https://github.com/Garlid/Unsupervised-Machine-Learning/tree/main/Market_Segmentation_With_K-Medoids) folder. 
+### **Clustering Algorithms Explored**
+1. **K-Means**
+2. **K-Medoids**
+3. **Hierarchical Clustering**
+4. **Density-Based Spatial Clustering (DBSCAN)**
+5. **Gaussian Mixture Model (GMM)**
 
+---
 
-<!---
-Garlid/Garlid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **Skills Demonstrated**
+- **Data Preprocessing**: Handling and cleaning large datasets.
+- **Exploratory Data Analysis (EDA)**: Gaining insights from raw data and preparing it for clustering.
+- **Clustering Evaluation**: Using metrics such as **silhouette scores** to assess the performance of different algorithms.
+- **Outlier Handling**: Identifying and mitigating the impact of outliers on clustering results.
+
+---
+
+### **Projects Overview**
+#### 1. **Market Segmentation with K-Medoids (MIT Capstone)**
+The first project in this repository is my capstone project from MIT's **Data Science and Machine Learning Program**. After evaluating multiple clustering algorithms, I selected **K-Medoids** as the most appropriate for the dataset due to its:
+- High **silhouette score**, indicating compact and well-separated clusters.
+- Robustness against **outliers**, which was crucial for this dataset.
+
+The project includes:
+- Raw data
+- Preprocessed and analyzed data
+- Code for clustering and evaluation
+- Final presentation delivered on December 13, 2023
+
+**Details of this project can be found in the** [Market_Segmentation_With_K-Medoids folder](https://github.com/Garlid/Unsupervised-Machine-Learning/tree/main/Market_Segmentation_With_K-Medoids).
+
+---
+
+### **Future Additions**
+I plan to expand this repository with more clustering projects, exploring real-world datasets and advanced evaluation techniques.
+
+---
+
+### Notes
+- This repository highlights my technical skills in **unsupervised learning** and the ability to communicate results effectively to both technical and non-technical audiences.
+- Each subfolder contains a `README.md` with specific details about the corresponding project.
+
+---
+
+### **How to Use This Repository**
+1. Navigate to the folders listed above for each project.
+2. Explore the notebooks, datasets, and visualizations within each subfolder.
+
+---
