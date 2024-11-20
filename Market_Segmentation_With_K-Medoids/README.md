@@ -13,11 +13,11 @@ This folder contains the final submission for my capstone project for[ MIT's App
 
 The following files are contained within this folder:
 
-1. Google Collab Notebook as a .ipynb file, a .py file, and as a PDF in case of difficulty viewing the .ipynb file
-2. Raw data
-3. Written summary of findings
-4. Presentation that was delievered to a live audience on December 13, 2023  
+1. [Google Collab Notebook](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/Market_Segmentation_Google_Collab_Notebook.ipynb)  as a .ipynb file, a [.py file](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/Market_Segmentation_Python_Notebook), and as a [PDF](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/Market_Segmentation_Notebook_PDF.pdf) in case of difficulty viewing the .ipynb file
+2. [Raw data](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/Market_Segmentation_Data.csv)
+3. [Written summary](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/Market_Segmentation_Summary.pdf) of findings
+4. [Presentation](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/Market_Segmentation_Presentation.pdf) that was delievered to a live audience on December 13, 2023  
 
-After analyzing the data and looking at the silhouette scores of various clustering algorithms, I decided to recommend using the K-Medoids algorithm. It had the highest silhouette score out of the 5 clustering algorithms I tested. Additionally, the data did have a few outliers, so using this algorithm decreased the sensitivity to these outliers. Below is K-Medoids Cluster Output. 
+After analyzing the data and looking at the silhouette scores of various clustering algorithms, I decided to recommend using the K-Medoids algorithm. It had the highest silhouette score out of the 5 clustering algorithms I tested. Additionally, the data did have a few outliers, so using this algorithm decreased the sensitivity to these outliers. Here is a sneak peek at the output. 
 
-[K-Medoids Cluster Output]
+[K-Medoids Cluster Output](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/K-Medoids_Output.png)
