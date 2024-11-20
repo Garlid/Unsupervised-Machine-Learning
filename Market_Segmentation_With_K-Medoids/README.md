@@ -50,6 +50,9 @@ After analyzing the data and evaluating silhouette scores of various clustering 
 - It achieved the **highest silhouette score** out of the 5 clustering algorithms tested.
 - It is less sensitive to outliers, which was particularly important for this dataset as it contained a few outliers.
 
+Below is a chart of the clustering performance metrics.
+
+![Cluster Performance](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/Cluster_Performance.png)
 ---
 
 ### K-Medoids Cluster Output
@@ -59,4 +62,18 @@ Here is a sneak peek at the output:
 ![K-Medoids Cluster Output](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/K-Medoids_Output.png)
 
 ---
+
+### Recomendations
+
+Ultimately, I recommended customizing both marketing content and marketing medium (ie, mailers, emails, etc) for five customer segements:
+
+1. Budget-Conscious Shoppers
+2. Wine Connoisseurs
+3. Cooking Enthusiasts
+4. Convenience Seekers
+5. Foodie Adventurers
+
+Lastly, I identified the costs associated with advertising to these segments. The chart below depicts the costs. 
+
+![Advertising_Costs](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/Advertising_Costs.png)
 
