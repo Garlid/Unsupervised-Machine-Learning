@@ -8,7 +8,7 @@ This repository contains projects I have completed that utilized various cluster
 
 These projects also showcase my ability to perform data pre-preprocessing and EDA on the associated data sets. 
 
-The first project you will see is the capstone project from MIT's Data Science and Machine Learning program. 
+The first project you will see is the capstone project from MIT's Data Science and Machine Learning program. After analyzing various clustering algorithms, I selected K-Medoids as the clustering algorithm that was both least sensitive to outliers and produced the most compact segments in my data, all while having the highest silhouette score. Details of the project, including raw data, code, and the final presentation can be found within the [Market_Segmentation_With_K-Medoids](https://github.com/Garlid/Unsupervised-Machine-Learning/tree/main/Market_Segmentation_With_K-Medoids) folder. 
 
 
 <!---
