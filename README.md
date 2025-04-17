@@ -24,8 +24,11 @@ This repository showcases projects I have completed that utilize various **unsup
 ---
 
 ### **Projects Overview**
-#### 1. **Market Segmentation with K-Medoids (MIT Capstone)**
-The first project in this repository is my capstone project from MIT's **Data Science and Machine Learning Program**. After evaluating multiple clustering algorithms, I selected **K-Medoids** as the most appropriate for the dataset due to its:
+#### 1. **Bank Customer Segmentation**
+The first project in this repository is a project from MIT's **Data Science and Machine Learning Program**. The project utilized T-SNE and PCA. 
+
+#### 2. **Market Segmentation with K-Medoids (MIT Capstone)**
+The second project in this repository is my capstone project from MIT's **Data Science and Machine Learning Program**. After evaluating multiple clustering algorithms, I selected **K-Medoids** as the most appropriate for the dataset due to its:
 - High **silhouette score**, indicating compact and well-separated clusters.
 - Robustness against **outliers**, which was crucial for this dataset.
 
