@@ -18,6 +18,8 @@ This repository showcases projects I have completed that utilize various **unsup
 - **Exploratory Data Analysis (EDA)**: Gaining insights from raw data and preparing it for clustering.
 - **Clustering Evaluation**: Using metrics such as **silhouette scores** to assess the performance of different algorithms.
 - **Outlier Handling**: Identifying and mitigating the impact of outliers on clustering results.
+- **Principal Component Analysis**: Condensing data down so it can be visualized as either 2D or 3D data
+- **T-Stochastic Neighbor Embedding**: 
 
 ---
 
