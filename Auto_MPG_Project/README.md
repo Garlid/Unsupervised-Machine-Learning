@@ -41,13 +41,13 @@ With t-SNE, I again used the scaled data I used for PCA. I chose to embed the da
 
 ### **Actionable Insights & Recommendations**
 
-####**Observations**
+**Observations**
 There were three distinct groups of vehicles:
 1. Light weight cars, few cylinders, higher MPG, and newest model year (likely sedans)
 2. Heavy-eight vehicles, higher horsepower, slower accelerations (likely trucks)
 3. "Goldy-locks" cars that are not too heavy nor too light, medium MPG, medium horsepower, and moderate accelaration
 
-####**Recommendations**
+**Recommendations**
 1. The largest group of cars are the newer models with better MPG. My first recommendation would be to increase stock of these vehicles. In this changing environment with shifting market conditions, globalization and cost pressure impacting most industries, the target market will likley be seeking vehicles that have better gas mileage.
 2. The second largest group contains vehicles with more hauling power and lower gas mileage. This sort of vehicle (likely trucks) appeal to a separate group of customers who may be less interested in saving gas money and more interested in the vehicle's abilities to haul effectively. This cluster is smaller than the first, so SecondLife ought to keep a good selection on hand, but perhaps not as many as the first group or cluster.
 3. The smallest group are those with some hauling power, variable MPG, and medium acceleration. Keeping a few of these types of vehicles in stock (but not too many) will appeal to a third customer-type.
