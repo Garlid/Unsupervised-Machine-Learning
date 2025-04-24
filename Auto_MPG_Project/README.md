@@ -8,18 +8,19 @@ The scenario for this project was to analyze data for a used automobile dealersh
 After scaling the data using the Standard Scaler, I used the sklearn library to import PCA. I created a PCA data frame, identified the percentage of variance explained by each principal component, and proceeded to plot the explained variances by components (see the *Explained Variances By Component* below). The least number of components that could explain more than 90% of the variation in the data was 3. After discovering this, I identified the principal components and visualized them in a data frame. I then used scatterplots to further visuzlize the principal components.   
 
 
-
 ####**Explained Variances By Component**
+
 ![Explained Variances By Component](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Auto_MPG_Project/Principal_Component_Scatterplot.png)
 
 
-
 ####**PC Dataframe**
+
 ![PC Dataframe](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Auto_MPG_Project/Principal_Component_Dataframe.png)
 
 
 
 ####**PC Scatterplot**
+
 ![PC Scatterplot](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Auto_MPG_Project/Principal_Component_Scatterplot.png)
 
 ---
