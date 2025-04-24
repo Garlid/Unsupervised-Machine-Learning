@@ -27,6 +27,8 @@ This repository showcases projects I have completed that utilize various **unsup
 #### 1. **Auto MPG**
 The first project in this repository is a project from MIT's **Data Science and Machine Learning Program**. The project utilized T-SNE and PCA in order to reduce dimensionality of the data and extract insights.
 
+**Details of this project can be found in the** [Auto_MPG_Project folder](https://github.com/Garlid/Unsupervised-Machine-Learning/tree/main/Auto_MPG_Project).
+
 #### 2. **Market Segmentation with K-Medoids (MIT Capstone)**
 The second project in this repository is my capstone project from MIT's **Data Science and Machine Learning Program**. After evaluating multiple clustering algorithms, I selected **K-Medoids** as the most appropriate for the dataset due to its:
 - High **silhouette score**, indicating compact and well-separated clusters.
