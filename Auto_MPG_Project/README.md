@@ -10,6 +10,6 @@ After scaling the data using the Standard Scaler, I used the sklearn library to 
 ---
 
 ### **T-Stochastic Neighbor Embedding**
-With t-SNE, I again used the scaled data I used for PCA. I chose to embed the data in a 2-dimensional space and proceeded to visualize the components in a scatterplot (see the *t-SNE Scatterplot* below). 
+With t-SNE, I again used the scaled data I used for PCA. I chose to embed the data in a 2-dimensional space and proceeded to visualize the components in a scatterplot (see the *t-SNE Scatterplot* below). I used 3 clusters or groups and put those groups in boxplots to help visualize the variables in those groups. 
 
 
