@@ -1,3 +1,11 @@
+<a href="https://garlid.github.io/Data-Projects-Portfolio/projects/market-segmentation.html"><img src="images/market-segmentation-summary.png" alt="Share of customers vs. share of spending by segment: Cooking Enthusiasts 20.1% vs 37.9%, Wine Connoisseurs 11.6% vs 34.0%, Foodie Adventurers 18.9% vs 19.0%, Budget-Conscious Shoppers 23.3% vs 4.9%, Convenience Seekers 26.2% vs 4.2%." width="100%"></a>
+
+> **1 in 3 customers drives 72% of spending.** Five customer segments behave so differently that one campaign can't serve them all, so each gets its own message and channel, for $1,708 per campaign.
+>
+> **[View the one-page project summary →](https://garlid.github.io/Data-Projects-Portfolio/projects/market-segmentation.html)**
+
+---
+
 ## Market Segmentation with K-Medoids
 
 This folder contains the final submission for my capstone project for [MIT's Applied Data Science Program: Leveraging AI for Effective Decision-Making](https://professional-education-gl.mit.edu/mit-online-data-science-program). 
@@ -52,14 +60,14 @@ After analyzing the data and evaluating silhouette scores of various clustering 
 
 Below is a chart of the clustering performance metrics.
 
-![Cluster Performance](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/Cluster_Performance.png)
+![Cluster Performance](Cluster_Performance.png)
 ---
 
 ### K-Medoids Cluster Output
 
 Here is a sneak peek at the output:
 
-![K-Medoids Cluster Output](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/K-Medoids_Output.png)
+![K-Medoids Cluster Output](K-Medoids_Output.png)
 
 ---
 
@@ -75,11 +83,11 @@ Ultimately, I recommended customizing both marketing content and marketing mediu
 
 Lastly, I identified the costs associated with advertising to these segments. The chart below depicts the costs. 
 
-![Advertising_Costs](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/Advertising_Costs.png)
+![Advertising_Costs](Advertising_Costs.png)
 
 ---
 
 ### MIT Professional Education Certificate
 
-![Certificate](https://github.com/Garlid/Unsupervised-Machine-Learning/blob/main/Market_Segmentation_With_K-Medoids/MIT_Certificate.png)
+![Certificate](MIT_Certificate.png)
 
