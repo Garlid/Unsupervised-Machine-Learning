@@ -1,8 +1,20 @@
-<a href="https://garlid.github.io/Data-Projects-Portfolio/projects/market-segmentation.html"><img src="images/market-segmentation-summary.png" alt="Share of customers vs. share of spending by segment: Cooking Enthusiasts 20.1% vs 37.9%, Wine Connoisseurs 11.6% vs 34.0%, Foodie Adventurers 18.9% vs 19.0%, Budget-Conscious Shoppers 23.3% vs 4.9%, Convenience Seekers 26.2% vs 4.2%." width="100%"></a>
+<a href="https://garlid.github.io/Data-Projects-Portfolio/projects/market-segmentation.html"><img src="images/market-segmentation-summary.png" alt="Share of customers vs. share of spending by K-Medoids segment: Wine Connoisseurs 16.7% vs 45.6%, Cooking Enthusiasts 21.7% vs 35.2%, Foodie Adventurers 18.1% vs 13.3%, Convenience Seekers 23.0% vs 3.1%, Budget-Conscious Shoppers 20.4% vs 2.8%." width="100%"></a>
 
-> **1 in 3 customers drives 72% of spending.** Five customer segments behave so differently that one campaign can't serve them all, so each gets its own message and channel, for $1,708 per campaign.
+> **2 in 5 customers drive 81% of spending.** Five customer segments behave so differently that one campaign can't serve them all, so each gets its own message and channel, for about $1,794 per campaign.
 >
 > **[View the one-page project summary →](https://garlid.github.io/Data-Projects-Portfolio/projects/market-segmentation.html)**
+
+### Revised analysis (October 2026)
+
+A labeling bug in the original notebook meant the segment profiles described **K-Means** segments rather than the **K-Medoids** model I selected. The model comparison and silhouette scores were correct. **The fix was made by Claude, an AI assistant made by Anthropic, at my request.** Every changed line is marked in the code.
+
+- **[Revised notebook (.ipynb)](Revised_Analysis_2026/Market_Segmentation_Revised.ipynb)** runs end to end from this repo, with outputs
+- **[Revision notes](Revised_Analysis_2026/REVISION_NOTES.md)** cover what was wrong, what changed, and the before-and-after results
+- [Revised code (.py)](Revised_Analysis_2026/Market_Segmentation_Revised.py)
+
+The personas and channel recommendations hold. Segment sizes and averages changed, and spending is even more concentrated than originally reported.
+
+**Everything below this line is the original December 2023 submission, preserved unchanged** (apart from image links, which were fixed so GitHub displays them). Its figures reflect the K-Means labels.
 
 ---
 
